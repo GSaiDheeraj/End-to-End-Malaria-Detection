@@ -1,7 +1,6 @@
 from flask import Flask, render_template, url_for, flash, redirect
 from flask import request
 from flask import send_from_directory
-from flask_socketio import SocketIO
 
 import numpy as np
 import tensorflow
