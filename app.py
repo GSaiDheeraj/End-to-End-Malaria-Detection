@@ -1,13 +1,23 @@
-from flask import Flask, render_template, url_for, flash, redirect
+from flask import Flask,render_template, url_for , redirect
+#from forms import RegistrationForm, LoginForm
+#from sklearn.externals import joblib
 from flask import request
-from flask import send_from_directory
-
 import numpy as np
-import tensorflow
-from tensorflow import keras
-import tensorflow as tf
+from PIL import Image
+from flask import flash
+#from flask_sqlalchemy import SQLAlchemy
+#from model_class import DiabetesCheck, CancerCheck
+
+
 import os
+from tensorflow import keras
+import tensorflow
 from tensorflow.keras.models import load_model
+from tensorflow.keras.preprocessing import image
+
+from flask import send_from_directory
+from tensorflow.keras.preprocessing import image
+import tensorflow as tf
 
 
 #from this import SQLAlchemy
