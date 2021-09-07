@@ -1,6 +1,6 @@
 # Malaria-Detection
-https://malariadetectionwithai.herokuapp.com/
-                                                                                                                                                                     
+https://malariadetectionwithai.herokuapp.com/                                                                                                                                                                            
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                                                                                                           
 Vootla Yeswanth : Web Development/ UI                                                                                                                                                                                      
 G.Sai Dheeraj : Deep Learnining model/Deployment                                                                                                                                                                                                                                                                                                                       
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ---                                                                                                                                                                                           
