@@ -24,3 +24,11 @@ G.Sai Dheeraj : Deep Learnining model/Deployment
      7) Integreation with Deep learning models                                                                                                                                       
    6) Deployment in the cloud
    7) maintainence.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------ ---  
+
+### Configs
+
+1) Python 3.6
+2) Tensorflow 2.1.6
+3) hdf5 2.1.9
